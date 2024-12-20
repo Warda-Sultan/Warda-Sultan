@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Warda-Sultan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning App Development
+- 🌱 I’m currently working on App Development
 - 💞️ I’m looking to collaborate on Bioinformatics Tools
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
